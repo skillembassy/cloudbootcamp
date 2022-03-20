@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'DevOps Bootcamp'
+project = 'Skill Embassy'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
